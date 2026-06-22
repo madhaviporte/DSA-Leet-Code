@@ -1,9 +1,4 @@
 // Q2)Sort the words of the sentence
-
-
-
-
-
 let prompt = require("prompt-sync")()
 let s = "taj mahal is situated at agra"
 let arr = s.split(" ")
