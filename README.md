@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhaviporte/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
