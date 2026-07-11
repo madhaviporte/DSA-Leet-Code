@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/madhaviporte/DSA/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/madhaviporte/DSA/tree/master/0495-teemo-attacking) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhaviporte/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/madhaviporte/DSA/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
