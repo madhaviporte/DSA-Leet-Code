@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/madhaviporte/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhaviporte/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhaviporte/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/madhaviporte/DSA/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/madhaviporte/DSA/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/madhaviporte/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
