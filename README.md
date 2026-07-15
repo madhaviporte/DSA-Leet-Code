@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/madhaviporte/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/madhaviporte/DSA/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhaviporte/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/madhaviporte/DSA/tree/master/0605-can-place-flowers) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/madhaviporte/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/madhaviporte/DSA/tree/master/0605-can-place-flowers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
