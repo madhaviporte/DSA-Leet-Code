@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhaviporte/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhaviporte/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/madhaviporte/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/madhaviporte/DSA/tree/master/0561-array-partition) |
