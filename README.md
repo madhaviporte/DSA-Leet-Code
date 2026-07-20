@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/madhaviporte/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
