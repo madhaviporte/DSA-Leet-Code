@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/madhaviporte/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
