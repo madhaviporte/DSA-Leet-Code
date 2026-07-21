@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhaviporte/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/madhaviporte/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/madhaviporte/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Prefix Sum
 |  |
 | ------- |
