@@ -1,5 +1,0 @@
-Serching lets begine
-
-1) lenear search => one by one search from first to last until the target value not achived
-
-2) binary search => hamesa sortet area me apply krna hhota hai

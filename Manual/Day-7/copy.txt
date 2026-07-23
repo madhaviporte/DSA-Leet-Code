@@ -1,2 +1,0 @@
-While Loop: jab hame pata na ho kaha tak jana hai tab hame use krna hai while loop 
-ISBN number: international standard book number

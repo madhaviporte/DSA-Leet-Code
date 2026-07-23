@@ -1,8 +1,0 @@
-DIGIT
-Entrations of digit
-
-module = %(always gives the last digit)
-7789%10=9
-778%10=8
-77%10=7
-7%10=7

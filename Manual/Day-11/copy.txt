@@ -1,3 +1,0 @@
-Array
-
-lenear data structure jo continuous hota hai ishka kam hota hai data ko store krna fir usko perform krna 
