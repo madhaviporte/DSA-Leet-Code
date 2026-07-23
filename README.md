@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/madhaviporte/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/madhaviporte/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0661-image-smoother) |
 | [1260-shift-2d-grid](https://github.com/madhaviporte/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/madhaviporte/DSA/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0661-image-smoother) |
 | [1260-shift-2d-grid](https://github.com/madhaviporte/DSA/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
