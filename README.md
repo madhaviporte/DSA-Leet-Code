@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/madhaviporte/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhaviporte/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/madhaviporte/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhaviporte/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/madhaviporte/DSA/tree/master/0175-combine-two-tables) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
