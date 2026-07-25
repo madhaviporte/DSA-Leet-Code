@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhaviporte/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
