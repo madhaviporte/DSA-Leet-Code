@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/madhaviporte/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -279,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
