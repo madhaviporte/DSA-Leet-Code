@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/madhaviporte/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/madhaviporte/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhaviporte/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhaviporte/DSA/tree/master/0500-keyboard-row) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/madhaviporte/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/madhaviporte/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0226-invert-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
