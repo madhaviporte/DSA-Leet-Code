@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhaviporte/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhaviporte/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 ## Sliding Window
