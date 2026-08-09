@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0661-image-smoother) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/madhaviporte/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/madhaviporte/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/madhaviporte/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -361,9 +365,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
