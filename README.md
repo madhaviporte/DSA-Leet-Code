@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3187-peaks-in-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3187-peaks-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3187-peaks-in-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3187-peaks-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3187-peaks-in-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3187-peaks-in-array) |
 <!---LeetCode Topics End-->
