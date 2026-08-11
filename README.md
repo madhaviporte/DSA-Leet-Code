@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/madhaviporte/DSA/tree/master/0598-range-addition-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -396,9 +399,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
