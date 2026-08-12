@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3187-peaks-in-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3187-peaks-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhaviporte/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhaviporte/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/madhaviporte/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Number Theory
 |  |
 | ------- |
