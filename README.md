@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhaviporte/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhaviporte/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3187-peaks-in-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3187-peaks-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0020-valid-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
