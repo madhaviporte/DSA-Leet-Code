@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/madhaviporte/DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhaviporte/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhaviporte/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
