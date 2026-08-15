@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
 | [0482-license-key-formatting](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/madhaviporte/DSA/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhaviporte/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhaviporte/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
+| [0504-base-7](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/madhaviporte/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
