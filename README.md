@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/madhaviporte/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/madhaviporte/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhaviporte/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/madhaviporte/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhaviporte/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -404,11 +409,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -418,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
