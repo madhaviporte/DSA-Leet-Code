@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/madhaviporte/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
