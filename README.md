@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
