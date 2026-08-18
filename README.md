@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/madhaviporte/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhaviporte/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/madhaviporte/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhaviporte/DSA/tree/master/0500-keyboard-row) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/madhaviporte/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/madhaviporte/DSA/tree/master/0561-array-partition) |
