@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3187-peaks-in-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3187-peaks-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/madhaviporte/DSA/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/madhaviporte/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/madhaviporte/DSA/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhaviporte/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
