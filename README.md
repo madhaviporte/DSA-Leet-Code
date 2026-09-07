@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/madhaviporte/DSA/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhaviporte/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1386-cinema-seat-allocation) |
@@ -541,4 +545,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
