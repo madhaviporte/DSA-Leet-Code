@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhaviporte/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0258-add-digits) |
