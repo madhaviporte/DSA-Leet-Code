@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhaviporte/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
