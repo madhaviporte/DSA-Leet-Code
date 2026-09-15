@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhaviporte/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhaviporte/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
