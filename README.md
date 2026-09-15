@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhaviporte/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0940-distinct-subsequences-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhaviporte/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhaviporte/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
