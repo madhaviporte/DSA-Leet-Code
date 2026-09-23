@@ -3,10 +3,10 @@ class Solution {
         int n = nums.length;
         int xor = 0;
         for(int i=0; i<=n; i++){
-            xor ^= i;
+           xor^=i;
         }
         for(int num : nums){
-            xor ^= num;
+            xor^=num;
         }
         return xor;
     }
