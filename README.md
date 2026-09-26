@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhaviporte/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
