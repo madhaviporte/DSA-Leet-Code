@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/madhaviporte/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0661-image-smoother) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0835-image-overlap](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhaviporte/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/madhaviporte/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -642,4 +646,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
