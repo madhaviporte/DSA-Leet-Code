@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3798-largest-even-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |
