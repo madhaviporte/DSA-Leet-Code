@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/madhaviporte/DSA/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/madhaviporte/DSA/tree/master/0523-continuous-subarray-sum) |
