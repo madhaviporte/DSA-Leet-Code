@@ -4,7 +4,6 @@ class Solution {
         if(n==0){
             return 0;
         }
-
         int i = 1;
         for(int j=1; j<n; j++){
             if(nums[i-1]!=nums[j]){
