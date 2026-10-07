@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
 | [0482-license-key-formatting](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0482-license-key-formatting) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/madhaviporte/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
