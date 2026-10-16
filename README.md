@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0577-employee-bonus) |
 ## Segment Tree
 |  |
 | ------- |
