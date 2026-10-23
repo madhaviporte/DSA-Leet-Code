@@ -6,7 +6,9 @@ class Solution {
             if(set.contains(nums[i])){
                 return true;
             }
-            set.add(nums[i]);
+            else{
+                set.add(nums[i]);
+            }
         }
         return false;
     }
