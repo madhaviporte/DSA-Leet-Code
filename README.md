@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/madhaviporte/DSA/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/madhaviporte/DSA/tree/master/0409-longest-palindrome) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/madhaviporte/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/madhaviporte/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/madhaviporte/DSA/tree/master/0506-relative-ranks) |
