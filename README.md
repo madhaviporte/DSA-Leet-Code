@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/madhaviporte/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/madhaviporte/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/madhaviporte/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/madhaviporte/DSA/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/madhaviporte/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/madhaviporte/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3310-remove-methods-from-project) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/madhaviporte/DSA/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/madhaviporte/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/madhaviporte/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/madhaviporte/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhaviporte/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhaviporte/DSA/tree/master/3312-sorted-gcd-pair-queries) |
