@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0268-missing-number) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0486-predict-the-winner) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -876,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
