@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhaviporte/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/madhaviporte/DSA/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0263-ugly-number) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/madhaviporte/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0326-power-of-three) |
