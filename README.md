@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0344-reverse-string) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/madhaviporte/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Two Pointers
 |  |
@@ -853,10 +855,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search Tree
 |  |
@@ -878,4 +882,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhaviporte/DSA-Leet-Code/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
